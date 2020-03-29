@@ -1,0 +1,46 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	background-color: #eee;
+}
+/*#title {
+	font-size: 10vh;
+	font-family: cursive;
+}*/
+#main_div {
+	width: 50vw;
+	margin-left:25vw;
+	height: 95vh;
+	padding-top: 5vh;
+	background-color: white;
+	text-align: center;
+}
+#test {
+	width: 50vw;
+	margin-top: 5vh;
+}
+#score {
+	width: 50vw;
+	margin-bottom: 5vh;
+	font-size: 5vh;
+}
+#palavra_div {
+	margin-bottom: 10vh;
+}
+#palavra_div span {
+	font-size: 15vh;
+}
+.btt_escolha {
+	width: 15vw;
+	height: 15vw;
+	border:1px solid;
+	border-radius: 2vw;
+	cursor: pointer;
+	margin-left: 2vw;
+	margin-right: 2vw;
+}
+#audio {
+	display: none;
+}
